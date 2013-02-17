@@ -1,14 +1,6 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Core\PipeBuilder.cs">
-    <Files>
-      <File FileName="Assets\Plugins\TexturePlayback.cs" Line="1" Column="1" />
-      <File FileName="Assets\Core\GestureUtils\HandTimer.cs" Line="6" Column="24" />
-      <File FileName="Assets\Core\Utils\PlayThruChildren.cs" Line="34" Column="23" />
-      <File FileName="Assets\scrawl\testpiechart.cs" Line="16" Column="38" />
-      <File FileName="Assets\Core\PipeBuilder.cs" Line="1" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

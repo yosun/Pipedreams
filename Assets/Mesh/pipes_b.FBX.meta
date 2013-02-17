@@ -27,7 +27,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: .00999999978
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -72,6 +72,9 @@ ModelImporter:
       data:
         first: 33
         second: a85a3200
+      data:
+        first: 64
+        second: 04a86100
     Donut003:
       data:
         first: 1
@@ -85,6 +88,9 @@ ModelImporter:
       data:
         first: 33
         second: aa5a3200
+      data:
+        first: 64
+        second: 0aa86100
     Donut004:
       data:
         first: 1
@@ -98,6 +104,9 @@ ModelImporter:
       data:
         first: 33
         second: a45a3200
+      data:
+        first: 64
+        second: 00a86100
     Donut005:
       data:
         first: 1
@@ -111,6 +120,9 @@ ModelImporter:
       data:
         first: 33
         second: a25a3200
+      data:
+        first: 64
+        second: 06a86100
     Line001:
       data:
         first: 1
@@ -138,6 +150,9 @@ ModelImporter:
       data:
         first: 33
         second: a05a3200
+      data:
+        first: 64
+        second: 08a86100
     Loft002:
       data:
         first: 1
@@ -151,6 +166,9 @@ ModelImporter:
       data:
         first: 33
         second: a65a3200
+      data:
+        first: 64
+        second: 02a86100
     Pipe_Bent:
       data:
         first: 1

@@ -48,6 +48,7 @@
      <Compile Include="Assets\Core\PipeBuilder.cs" />
      <Compile Include="Assets\Core\ThePiper.cs" />
      <Compile Include="Assets\Core\Utils\PlayThruChildren.cs" />
+     <Compile Include="Assets\scrawl\testdir.cs" />
      <Compile Include="Assets\scrawl\testpiechart.cs" />
   </ItemGroup>
   <ItemGroup>
